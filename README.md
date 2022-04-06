@@ -1,12 +1,12 @@
-# curriculum-databases-projects-template
-
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
+# SQL-databases-projects
 
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
+
+To explore or play with this code you should :
+- Clone the repository
+- Open the repository using your favorite Integrated Development Environment (e.g. for Visual Studio Code the command is `code .`)
 
 - Use [schema.sql](./schema.sql) to create all tables.
 - Use [data.sql](./data.sql) to populate tables with sample data.
@@ -15,23 +15,17 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Dennis Akagha
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@denscholar](https://github.com/denscholar)
+- Twitter: [@denscholar](https://twitter.com/dennisakagha)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dennisakagha/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
