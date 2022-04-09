@@ -146,7 +146,7 @@ CREATE VIEW Stephanie_Mendez AS
   SELECT animals.name, COUNT(animals.name) 
   FROM animals
   JOIN visits ON visits.animal_id = animals.id
-  JOIN vets Ve ON visits.vets_id = vets.id
+  JOIN vets ON visits.vets_id = vets.id
   WHERE vets.name = 'Stephanie Mendez'
   GROUP BY animals.name;
 
